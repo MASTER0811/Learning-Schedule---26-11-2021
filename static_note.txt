@@ -1,0 +1,85 @@
+mon_img = https://images.pexels.com/photos/572897/pexels-photo-572897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+tue_img = https://images.pexels.com/photos/1482193/pexels-photo-1482193.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+wed_img = https://images.pexels.com/photos/1061640/pexels-photo-1061640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+thu_img = https://images.pexels.com/photos/1102909/pexels-photo-1102909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+fri_img = https://images.pexels.com/photos/1529360/pexels-photo-1529360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+sat_img = https://images.pexels.com/photos/2291599/pexels-photo-2291599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+sun_img = https://images.pexels.com/photos/372470/pexels-photo-372470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+
+# <li><a href="{link}"><span class="left_icon">-></span>{text}</a></li>
+
+
+
+week = [
+    mon: [
+        {
+            - https://meet.google.com/lookup/chuapeijuan
+            - REST
+            - https://meet.google.com/lookup/lawjiahui
+            - REST
+            - https://meet.google.com/lookup/kohjiemin
+            - https://meet.google.com/lookup/yongconney
+            - REST
+            - https://meet.google.com/lookup/ngeesze
+            - https://meet.google.com/lookup/fatiemah
+            - https://meet.google.com/lookup/leehuikee
+        }
+    ]
+    tue: [
+        {
+            - https://meet.google.com/lookup/kohjiemin
+            - REST
+            - https://meet.google.com/lookup/leehuikee
+            - https://meet.google.com/lookup/chuapeijuan
+            - REST
+            - https://meet.google.com/lookup/fatiemah
+            - REST
+            - https://meet.google.com/lookup/ngeesze
+            - https://meet.google.com/lookup/yongconney
+        }
+    ]
+    wed: [
+        {
+            - https://meet.google.com/lookup/leehuikee
+            - https://meet.google.com/lookup/ngeesze
+            - REST
+            - https://meet.google.com/lookup/chuapeijuan
+            - REST
+            - https://meet.google.com/lookup/tehyewkiat
+            - https://meet.google.com/lookup/ngpeklee
+            - REST
+            - https://meet.google.com/lookup/kohjiemin
+            - https://meet.google.com/lookup/pekmingchoo
+            - https://meet.google.com/lookup/fatiemah
+        }
+    ]
+    thu: [
+        {
+            - https://meet.google.com/lookup/leehuikee
+            - REST
+            - https://meet.google.com/lookup/kelvintaywenhan
+            - https://meet.google.com/lookup/chansiewchen
+            - https://meet.google.com/lookup/kohjiemin
+            - REST
+            - https://meet.google.com/lookup/fatiemah
+            - REST
+            - https://meet.google.com/lookup/chuapeijuan
+            - https://meet.google.com/lookup/pekmingchoo
+            - https://meet.google.com/lookup/ngeesze
+        }
+    ]
+    fri: [
+        {
+            - https://meet.google.com/lookup/ngeesze
+            - REST
+            - https://meet.google.com/lookup/yongconney
+            - https://meet.google.com/lookup/chuapeijuan
+            - REST
+            - https://meet.google.com/lookup/fatiemah
+            - https://meet.google.com/lookup/ngeesze
+            - REST
+            - https://meet.google.com/lookup/pekmingchoo
+            - https://meet.google.com/lookup/leehuikee
+        }
+    ]
+]
